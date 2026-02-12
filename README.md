@@ -19,7 +19,6 @@ prevention, conflict detection, and validation.
 7. [Conflict Handling Strategy](#conflict-handling-strategy)
 8. [Limitations](#limitations)
 9. [Future Improvements](#future-improvements)
-10. [How to Explain This in 3–5 Minutes](#how-to-explain-this-in-35-minutes) 
 
 ---
 
