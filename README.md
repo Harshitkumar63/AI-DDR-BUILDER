@@ -10,16 +10,34 @@ prevention, conflict detection, and validation.
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Architecture](#architecture)
-3. [Installation](#installation)
-4. [How It Works](#how-it-works)
-5. [Usage](#usage)
-6. [Hallucination Prevention Strategy](#hallucination-prevention-strategy)
-7. [Conflict Handling Strategy](#conflict-handling-strategy)
-8. [Limitations](#limitations)
-9. [Future Improvements](#future-improvements)
-10. [How to Explain This in 3–5 Minutes](#how-to-explain-this-in-35-minutes)
+1. [Screenshots](#screenshots)
+2. [Project Overview](#project-overview)
+3. [Architecture](#architecture)
+4. [Installation](#installation)
+5. [How It Works](#how-it-works)
+6. [Usage](#usage)
+7. [Hallucination Prevention Strategy](#hallucination-prevention-strategy)
+8. [Conflict Handling Strategy](#conflict-handling-strategy)
+9. [Limitations](#limitations)
+10. [Future Improvements](#future-improvements)
+11. [How to Explain This in 3–5 Minutes](#how-to-explain-this-in-35-minutes)
+
+---
+
+## Screenshots
+
+### Upload Interface
+![Upload UI](screenshots/01_upload_ui.png)
+
+### Generated DDR Report
+![Generated Report - Summary](screenshots/02_generated_report_1.png)
+![Generated Report - Area Details](screenshots/02_generated_report_2.png)
+
+### CLI Terminal Output
+![Terminal Output](screenshots/03_terminal_output.png)
+
+### API Documentation (Swagger)
+![API Docs](screenshots/04_api_docs.png)
 
 ---
 
