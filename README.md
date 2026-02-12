@@ -20,7 +20,6 @@ prevention, conflict detection, and validation.
 8. [Conflict Handling Strategy](#conflict-handling-strategy)
 9. [Limitations](#limitations)
 10. [Future Improvements](#future-improvements)
-11. [How to Explain This in 3–5 Minutes](#how-to-explain-this-in-35-minutes)
 
 ---
 
@@ -316,39 +315,7 @@ When the inspection report and thermal report disagree:
 
 ---
 
-## How to Explain This in 3–5 Minutes
 
-Use these bullet points for a Loom video walkthrough:
-
-### Opening (30 seconds)
-- "This is AI DDR Builder — it takes two raw technical reports and turns them into a single client-ready diagnostic report."
-- Show the two sample input files side by side.
-
-### Architecture Overview (60 seconds)
-- "The system uses a 6-step pipeline." Walk through the ASCII diagram.
-- Emphasise modularity: "Each step is its own Python module — easy to test, easy to swap."
-
-### Demo Run (60 seconds)
-- Run `python app.py --demo` and show the terminal output.
-- Point out the progress indicators, the area/conflict counts, and the validation results.
-- Open the generated `output_ddr.txt` and scroll through the sections.
-
-### Hallucination Prevention (45 seconds)
-- "The number one risk with AI-generated reports is hallucination."
-- Show the extraction prompt's strict rules.
-- Show the validator output — "every number and area name is cross-checked."
-- "If something isn't in the source data, it says 'Not Available' instead of making something up."
-
-### Conflict Handling (30 seconds)
-- "When the two reports disagree, the system doesn't just pick one."
-- Show the conflict appendix in the final report.
-- "Conflicts are flagged transparently so the client knows where to investigate."
-
-### Closing (15 seconds)
-- "This is designed to be production-quality, modular, and generalizable to any inspection-style document pair."
-- "Questions? Let me know."
-
----
 
 ## License
 
