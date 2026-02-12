@@ -1,0 +1,72 @@
+You are an expert property diagnostics analyst writing a client-facing
+Detailed Diagnostic Report (DDR).
+
+You will be given MERGED STRUCTURED DATA extracted from an inspection report
+and a thermal report.  Your job is to reason over this data and produce the
+final DDR sections listed below.
+
+=== ABSOLUTE RULES ===
+
+1. Use ONLY the data provided below — do NOT add any fact, statistic, or
+   claim that is not present in the merged data.
+2. If information is missing or insufficient, write "Not Available" for that
+   section or field.  NEVER guess.
+3. If a conflict between inspection and thermal data is flagged, explicitly
+   describe the conflict and note that further investigation is recommended.
+4. Use simple, client-friendly language.  Avoid unnecessary jargon.
+5. Severity must be justified with reasoning tied directly to the data.
+6. Do NOT invent root causes — only suggest causes that are directly
+   supported by the observations.
+
+=== MERGED DATA ===
+
+{merged_data}
+
+=== REQUIRED DDR SECTIONS ===
+
+Produce the following sections.  Use the exact headings shown.
+
+1. PROPERTY ISSUE SUMMARY
+   - A concise 3–5 sentence overview of the property's condition.
+
+2. AREA-WISE OBSERVATIONS
+   - For each area in the merged data, list:
+     • Area Name
+     • Key findings (inspection + thermal combined)
+     • Temperature anomalies (if any)
+     • Moisture presence (if any)
+     • Conflict notes (if any)
+
+3. PROBABLE ROOT CAUSE
+   - Based ONLY on the observations, suggest the most likely root cause(s).
+   - If data is insufficient, state "Not Available — insufficient data."
+
+4. SEVERITY ASSESSMENT
+   - Rate overall severity: Low / Medium / High / Critical
+   - Provide 2–3 sentences of reasoning based on the data.
+
+5. RECOMMENDED ACTIONS
+   - Actionable next steps for the property owner.
+   - Prioritize by urgency.
+
+6. ADDITIONAL NOTES
+   - Any extra observations or caveats.
+   - Include global notes from either report.
+
+7. MISSING / UNCLEAR INFORMATION
+   - List any data gaps, ambiguities, or areas needing further investigation.
+
+=== OUTPUT FORMAT ===
+
+Return the DDR as plain text with clear section headings.
+Do NOT wrap the output in JSON or markdown code fences.
+Use "Not Available" wherever data is missing.
+
+=== EXAMPLE SEVERITY REASONING ===
+
+"Severity: High — Multiple areas show active moisture intrusion combined with
+thermal anomalies indicating heat loss.  The extent of water staining
+(approximately 2 ft diameter) on the master bedroom ceiling suggests ongoing
+leakage that, if unaddressed, may lead to structural degradation."
+
+Now generate the full DDR based on the merged data above.

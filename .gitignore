@@ -1,0 +1,55 @@
+# ========================
+# SECRETS — NEVER COMMIT
+# ========================
+.env
+*.env
+.env.*
+!.env.example
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.Python
+venv/
+env/
+.venv/
+
+# ========================
+# Generated output files
+# ========================
+data/output_ddr.txt
+data/merged_data.json
+
+# ========================
+# Node / Frontend
+# ========================
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# ========================
+# IDE & OS
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Logs & temp
+# ========================
+*.log
+tmp/
+temp/

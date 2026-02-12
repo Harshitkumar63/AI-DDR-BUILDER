@@ -1,0 +1,103 @@
+========================================
+    THERMAL IMAGING REPORT
+========================================
+Date of Thermal Survey: January 16, 2025
+Thermographer: Sarah Chen, Level II Certified Thermographer
+Property Address: 742 Evergreen Terrace, Springfield, IL 62704
+Equipment: FLIR T540 Thermal Camera
+Ambient Temperature: 28°F (-2.2°C)
+Indoor Temperature: 68°F (20°C)
+
+========================================
+SECTION 1: MASTER BEDROOM
+========================================
+Thermal anomaly detected in the northwest corner of the ceiling.
+Surface temperature reads 52°F (11.1°C), which is 16°F below the
+room average of 68°F. This temperature differential is consistent
+with moisture saturation in the ceiling material.
+
+The north wall shows a cold band approximately 4 feet wide running
+horizontally at about 8 feet height. Temperature in this band
+reads 55°F (12.8°C) compared to the surrounding wall at 65°F (18.3°C).
+This pattern suggests inadequate insulation or air infiltration at the
+wall-ceiling junction.
+
+Moisture reading via thermal pattern analysis indicates high probability
+of active moisture presence in the northwest ceiling area.
+
+========================================
+SECTION 2: KITCHEN
+========================================
+Thermal imaging of the kitchen area shows uniform temperature
+distribution across walls and ceiling. No anomalies detected.
+
+Minor thermal bridging observed at the window frame — surface
+temperature at frame reads 58°F (14.4°C) versus wall temperature
+of 66°F (18.9°C). This is within acceptable range for single-pane
+windows.
+
+No moisture signatures detected in the kitchen.
+
+========================================
+SECTION 3: 2ND FLOOR BATHROOM
+========================================
+Significant thermal anomaly detected around the bathtub perimeter.
+Floor surface temperature near the tub reads 58°F (14.4°C) versus
+the room average of 67°F (19.4°C).
+
+A distinct cold spot was identified at the toilet base — temperature
+reads 54°F (12.2°C), suggesting moisture accumulation in the subfloor.
+
+The shower wall shows irregular thermal patterns consistent with
+moisture behind the tile surface. Temperature differential of 8°F
+measured between dry and affected tile areas.
+
+Active moisture presence confirmed in the bathroom floor and
+shower wall areas.
+
+========================================
+SECTION 4: ATTIC
+========================================
+Thermal survey of the attic reveals significant heat loss in
+the northwest quadrant. Insulation gaps are clearly visible in
+thermal imaging, with surface temperatures varying from 35°F (1.7°C)
+in uninsulated areas to 50°F (10°C) in insulated areas.
+
+The roof sheathing in the northwest corner shows a thermal pattern
+consistent with prior moisture damage — the affected area measures
+approximately 3 feet by 4 feet.
+
+No active moisture detected in the attic at the time of survey.
+The staining observed appears to be from a historical event that
+has since dried.
+
+========================================
+SECTION 5: NORTH EXTERIOR WALL
+========================================
+Exterior thermal scan of the north wall reveals heat loss around
+the second-floor window. Temperature differential of 12°F between
+the window perimeter and the surrounding wall surface.
+
+The flashing area shows elevated exterior surface temperature of
+45°F (7.2°C) compared to surrounding siding at 30°F (-1.1°C),
+indicating warm air escaping through the improper seal.
+
+Thermal imaging confirms improper insulation coverage along the
+top plate of the north wall, approximately 6 feet in length.
+
+========================================
+GENERAL THERMAL NOTES
+========================================
+1. Overall thermal envelope integrity is FAIR with notable
+   deficiencies in the northwest quadrant.
+2. The combination of moisture signatures in the master bedroom
+   ceiling and bathroom floor, along with heat loss patterns at
+   the north wall, suggests a connected moisture/air infiltration
+   pathway.
+3. The attic insulation deficiencies correlate with the inspection
+   report's observation of gaps near the eaves.
+4. Recommend: Blower door test to quantify air infiltration and
+   targeted moisture testing with pin-type meter.
+
+Survey ID: THM-2025-0742-B
+========================================
